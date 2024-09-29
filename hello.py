@@ -9,4 +9,4 @@ def hello_world():
 
 @app.route('/user/<name>')
 def hello_world2(name):
-    return '<p>Hello from Flask!</p><table><tr><td><b>Aluno:</b></td><td>{}</td></tr><tr><td><b>Prontuário:</b></td><td>PT3026841</td></tr></table>'.format(name)
+    return '<p>Hello from Flask Git Hub Update!</p><table><tr><td><b>Aluno:</b></td><td>{}</td></tr><tr><td><b>Prontuário:</b></td><td>PT3026841</td></tr></table>'.format(name)
